@@ -1,0 +1,1 @@
+{"name":"TIMEBLOCKS","short_name":"TIMEBLOCKS","description":"A local-first timeblock and event tracker.","start_url":"./","scope":"./","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
